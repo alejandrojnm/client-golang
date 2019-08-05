@@ -1,6 +1,4 @@
-client-golang
-
-===============
+# client-golang
 
 This is a Golang API client for [Civo](https://civo.com). Civo is a UK developer cloud.
 
@@ -19,4 +17,8 @@ git config user.name "Your Name"
 git config user.email "Your@email"
 git commit --signoff
 ``` 
+
+## Maintainers
+
+[Alex Ellis, OpenFaaS Ltd](https://github.com/alexellis/)
 
